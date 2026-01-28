@@ -45,3 +45,7 @@ def iniciar_juego():
         
         if intentos == max_intentos:
             print(f"Llegaste al limite de intentos. La palabra era: {palabra_secreta}")
+
+
+#Llama al juego
+iniciar_juego()
